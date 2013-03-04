@@ -76,7 +76,7 @@ public class SomaxisGraph : MonoBehaviour, ISomaxisReadingListener {
 			CreatePoints ();
 		}
 		
-		FilterSignal ();
+		//FilterSignal ();
 		
 		for (int i = 1; i < currentResolution; i++) {
 			int j = i-1;

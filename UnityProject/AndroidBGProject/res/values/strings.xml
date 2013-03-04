@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">BitGym-Powered App</string>
+  <string name="title_activity_main">BG-Powered App Title</string>
+  <string name="menu_settings">BGApp Settings</string>
+</resources>
