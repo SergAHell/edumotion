@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 0b8b2d1b020f10c49af7b0372e26d0a0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01 L Clavicle
+    100002: //RootNode
+    100004: Bip01 L Finger0Nub
+    100006: Bip01 R Clavicle
+    100008: Bip01 R Finger0Nub
+    100010: Sword_001
+    100012: Bip01
+    100014: Bip01 Footsteps
+    100016: Bip01 R Toe02
+    100018: LeftKnee
+    100020: Bip01 L Toe0
+    100022: Bip01 L Toe0Nub
+    100024: LeftElbow
+    100026: LeftHand
+    100028: LeftFoot
+    100030: LeftShoulder
+    100032: RightKnee
+    100034: RightHip
+    100036: Bip01 L Toe01
+    100038: Bip01 R Toe01
+    100040: RightElbow
+    100042: Bip01 HeadNub
+    100044: Torso
+    100046: RightShoulder
+    100048: Bip01 R Finger0
+    100050: Bip01 L Finger0
+    100052: RightHand
+    100054: Head
+    100056: Bip01 Neck
+    100058: Bip01 R Toe0
+    100060: RightFoot
+    100062: Bip01 R Toe0Nub
+    100064: Bip01 L Toe02
+    100066: Bip01 Pelvis
+    100068: LeftHip
+    400000: Bip01 L Clavicle
+    400002: //RootNode
+    400004: Bip01 L Finger0Nub
+    400006: Bip01 R Clavicle
+    400008: Bip01 R Finger0Nub
+    400010: Sword_001
+    400012: Bip01
+    400014: Bip01 Footsteps
+    400016: Bip01 R Toe02
+    400018: LeftKnee
+    400020: Bip01 L Toe0
+    400022: Bip01 L Toe0Nub
+    400024: LeftElbow
+    400026: LeftHand
+    400028: LeftFoot
+    400030: LeftShoulder
+    400032: RightKnee
+    400034: RightHip
+    400036: Bip01 L Toe01
+    400038: Bip01 R Toe01
+    400040: RightElbow
+    400042: Bip01 HeadNub
+    400044: Torso
+    400046: RightShoulder
+    400048: Bip01 R Finger0
+    400050: Bip01 L Finger0
+    400052: RightHand
+    400054: Head
+    400056: Bip01 Neck
+    400058: Bip01 R Toe0
+    400060: RightFoot
+    400062: Bip01 R Toe0Nub
+    400064: Bip01 L Toe02
+    400066: Bip01 Pelvis
+    400068: LeftHip
+    4300000: Sword_001
+    11100000: //RootNode
+    13700000: Sword_001
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

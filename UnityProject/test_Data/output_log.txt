@@ -1,0 +1,106 @@
+Initialize engine version: 4.0.0f7
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.14.10.1930]
+    Renderer: Mobile Intel(R) 965 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\BitGymMotionSDK.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\BitGymMotionSDK.dll into Unity Child Domain
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\ANT_NET.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\ANT_NET.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\Michael\www\edumotion\Unity-Example\test_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 642. Operation took 2.595757 ms.
+getting lock
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+made mono tracker
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Start SomaxisGraph
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+getting lock
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+made mock tracker
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SomaxisManager Start()
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+setup csv file: 
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+WebCam Authorized
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Created webcamtexture with desired dimensions: 160,160 and got texture with dimensions: 176,144
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 120: 47, -0.332
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 240: 27, -0.363
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 360: 7, -0.306
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 480: 37, -0.368
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 600: 17, -0.45
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Csv reading data 720: 47, -0.364
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+disable
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+disabled, tearing down webcamTexture
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
