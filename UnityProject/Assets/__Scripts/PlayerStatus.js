@@ -4,15 +4,15 @@ var nLettersPickedUp : int = 0;
 
 
 private var animation_state : Animation_State;
-//private var anim : Animation;
+private var anim : Animation;
 private var handlePickupAnimation = false;
 
 function Start () {
 	animation_state = FindObjectOfType(Animation_State);
-//	anim = GetComponent(Animation);
-//	if (!anim) {
-//		Debug.LogError("Missing player animation!");
-//	}
+	anim = GetComponent(Animation);
+	if (!anim) {
+		Debug.LogError("Missing player animation!");
+	}
 }
 
 function Update () {
@@ -54,7 +54,7 @@ function OnTriggerEnter (other : Collider) {
 		// Player anim
 		animation_state.animState = 3;
 		handlePickupAnimation = true;
-		if (other.gameObject.name == "pickup_L") {
+		if (other.gameObject.name == "pickup_H") {
 			HandleWin(other.gameObject);
 		}
 		
