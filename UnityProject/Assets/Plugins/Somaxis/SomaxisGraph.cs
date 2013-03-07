@@ -26,7 +26,7 @@ public class SomaxisGraph : MonoBehaviour, ISomaxisReadingListener {
 	private float lastDt;
 	//private ComplexF[] fft;
 	
-	public void Start ()
+	public void Awake ()
 	{
 		Debug.Log ("Start SomaxisGraph");
 		SomaxisManager.GetInstance ().AddReadingListener (this);
@@ -76,7 +76,7 @@ public class SomaxisGraph : MonoBehaviour, ISomaxisReadingListener {
 			CreatePoints ();
 		}
 		
-		//FilterSignal ();
+		FilterSignal ();
 		
 		for (int i = 1; i < currentResolution; i++) {
 			int j = i-1;

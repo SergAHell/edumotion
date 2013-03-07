@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "Preparing stage for building Unity Android App"
+UNITY_STAGE="Temp/StagingArea"
+UNITY_PLAYER_FOLDER="UnityPlayer"
+ANDROID_PROJECT="AndroidBGProject"
+cp -R "$UNITY_STAGE"/ "$UNITY_PLAYER_FOLDER"
+cp -R "$UNITY_STAGE"/assets "$ANDROID_PROJECT"
+cp -R "$UNITY_STAGE"/res/values "$ANDROID_PROJECT"/res/
+cp -R "$UNITY_STAGE"/res/drawable* "$ANDROID_PROJECT"/res/
+echo "Stage done. Refresh your Android project."

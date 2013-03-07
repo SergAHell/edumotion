@@ -21,20 +21,19 @@ Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\ANT_NET.
 Loading D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\ANT_NET.dll into Unity Child Domain
 Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\BitGymMotionSDK.dll (this message is harmless)
 Loading D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\BitGymMotionSDK.dll into Unity Child Domain
-- Completed reload, in  1.185 seconds
-desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\AES_CTR.dll (this message is harmless)
+Loading D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\AES_CTR.dll into Unity Child Domain
+- Completed reload, in  0.459 seconds
+desktop: 800x600 120Hz; virtual: 800x600 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\System.dll (this message is harmless)
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 586. Operation took 30.079473 ms.
-getting lock
+Texture: 1024,1024 Screen: 800,600
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
 
-made mono tracker
+lessthan
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
 
@@ -54,6 +53,21 @@ Start SomaxisGraph
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 596. Operation took 19.547550 ms.
+cleared listeners on level load
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+getting lock
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+made mono tracker
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
 SomaxisManager Start()
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
@@ -70,7 +84,76 @@ Created webcamtexture with desired dimensions: 160,160 and got texture with dime
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
 
-Csv reading data 120: 47, 0.168
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Platform assembly: D:\Michael\www\edumotion\bin\windowsx86_Data\Managed\Boo.Lang.dll (this message is harmless)
+Player Collision exit start
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision exit start
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision exit start
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision exit start
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision exit start
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision triggered
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Pickup collision handler enter
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player Collision exit start
  
 (Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
 

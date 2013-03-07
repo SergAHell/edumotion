@@ -2,7 +2,6 @@ using System;
 using UnityEngine;
 using System.Runtime.InteropServices;
 using ANT_Managed_Library;
-using AppDomain;
 
 public class SomaxisTrackerNative : MonoBehaviour, ISomaxisTracker
 {            
